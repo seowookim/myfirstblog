@@ -1,0 +1,10 @@
+---
+title: first post
+author: seowoo
+date: '2018-06-22'
+slug: first-post
+categories:
+  - R
+tags: []
+---
+THIS IS MY FIRST POST
